@@ -14,6 +14,7 @@ def loop_iterator(number_of_times)
     counter = phrase += 1 
     if counter <=4
       break
+    end
     
 end
 
